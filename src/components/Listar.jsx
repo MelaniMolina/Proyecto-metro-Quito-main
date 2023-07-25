@@ -6,16 +6,19 @@ import { useEffect } from 'react'
 const Listar = ({ estado,setIdmetro }) => {
 
     const [rutas, setRutas] = useState([])
-
+//Funcion autoejecutable
     useEffect(() => {
         if (estado || rutas.length >= 0) {
             (async function () {
                 try {
+                    //LLamar a la API
                     const respuesta = await (await fetch("http://localhost:3000/metro")).json()
+                    //Cargar la info de rutas por medio de setrutas
                     setRutas(respuesta)
                     console.log("petición");
                 }
                 catch (error) {
+                    //Mostramos mensajes de error
                     console.log(error);
                 }
             })()
