@@ -30,10 +30,19 @@
       "nombre": "Melani",
       "sector": "Guamani",
       "salida": "terminal",
-      "llegada": "recreo",
+      "llegada": "Marin",
       "maquinista": "feliz",
       "detalles": "aseguresedellavadsda",
       "id": "3c75b968-21a4-4d59-b3fb-3b5554b77e8b"
+    },
+    {
+      "nombre": "Rashell",
+      "sector": "Norte",
+      "salida": "Hospital",
+      "llegada": "SantaMaria",
+      "maquinista": "triste",
+      "detalles": "sdadkmsdjiwjeihqe",
+      "id": "03e76cea-8a13-4295-8c01-c165b412015f"
     }
   ]
 }
