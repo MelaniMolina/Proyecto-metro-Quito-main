@@ -21,7 +21,8 @@ export const Formulario = ({setEstado,idMetro}) => {
             {
                 (async function (idMetro) {
                     try {
-                        const respuesta = await (await fetch(`http://localhost:3000/metro/${idMetro}`)).json()
+                        //Agregado el Mockapi
+                        const respuesta = await (await fetch(`https://64cefce4ffcda80aff5197b9.mockapi.io/api/metro-quito/v1/metro${idMetro}`)).json()
                         const {id,nombre,sector,salida,llegada,maquinista,detalles} = respuesta
                         setform({
                             ...form,
