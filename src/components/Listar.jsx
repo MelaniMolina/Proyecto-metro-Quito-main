@@ -29,7 +29,7 @@ const Listar = ({ estado,setIdmetro }) => {
         try {
             const confirmar = confirm("Vas a aliminar una ruta")
             if (confirmar) {
-                const url = `http://localhost:3000/metro/${id}`
+                const url = `https://64cefce4ffcda80aff5197b9.mockapi.io/api/metro-quito/v1/metro${id}`
                 await fetch(url, {
                     method: 'DELETE',
                 })

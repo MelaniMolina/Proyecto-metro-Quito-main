@@ -18,15 +18,6 @@
   },
   "metro": [
     {
-      "nombre": "Quitumbe",
-      "sector": "Sur-norte",
-      "salida": "Quitumbe",
-      "llegada": "Carolina",
-      "maquinista": "Monserratt",
-      "detalles": "nn",
-      "id": "aaab703b-6af6-4853-bf05-6134be5e8710"
-    },
-    {
       "nombre": "Melani",
       "sector": "Guamani",
       "salida": "terminal",
@@ -43,6 +34,105 @@
       "maquinista": "rkeokrwok",
       "detalles": "ewrroeroewkr",
       "id": "9f81e741-eec1-422e-9184-9cdddf676532"
+    },
+    {
+      "nombre": "Melani",
+      "sector": "Sur",
+      "salida": "Guamani",
+      "llegada": "Quitumbe",
+      "maquinista": "Alex",
+      "detalles": "edkoqwkdo",
+      "id": "f4ced440-9be5-4d42-8821-b48b0857e43b"
+    },
+    {
+      "nombre": "emwqmek",
+      "sector": "mdekwmkdm",
+      "salida": "omfoemfoewmo",
+      "llegada": "nfoewnfoewn",
+      "maquinista": "nfoenwfonfo",
+      "detalles": "mefnwoenfeoenf",
+      "id": "4dbf6776-18ca-41ae-91d2-f2c4390d8d90"
+    },
+    {
+      "nombre": "mdslmdlsadm",
+      "sector": "mfmewmewo",
+      "salida": "mfoewmewomewo",
+      "llegada": "fmowefeewomfo",
+      "maquinista": "mefowemo",
+      "detalles": "onowenfoewf",
+      "id": "0cb21403-6fdc-42af-b0ff-30576e6e20d0"
+    },
+    {
+      "nombre": "dmasmdakam",
+      "sector": "nekwkdewk",
+      "salida": "ndeniwni",
+      "llegada": "infeinwinwfi",
+      "maquinista": "nfienwinei",
+      "detalles": "nfeiwnfeinwfei",
+      "id": "b59d3519-3a77-4c44-88e2-3bd807809867"
+    },
+    {
+      "nombre": "MElani",
+      "sector": "fmsdimi",
+      "salida": "nfieeniwn",
+      "llegada": "infifnwiefn",
+      "maquinista": "infinwiefei",
+      "detalles": "invienfeiw",
+      "id": "89b0c8cf-4339-40ac-ba04-4a0cdb5408c6"
+    },
+    {
+      "nombre": "s,dlpsalp",
+      "sector": "mfewmfemo",
+      "salida": "mofemewomo",
+      "llegada": "omfoemfoemwom",
+      "maquinista": "omofmwoe",
+      "detalles": "omomowqmeoeqw",
+      "id": "768b6687-218d-409f-94e5-f4634bd6497a"
+    },
+    {
+      "nombre": "keoekwkro",
+      "sector": "koekowko",
+      "salida": "mfoemewo",
+      "llegada": "o,feo,woe,fweo",
+      "maquinista": "ofmeofmwo",
+      "detalles": "oemowe",
+      "id": "fe9a1bbc-70a4-4861-aac2-12168912076e"
+    },
+    {
+      "nombre": "sd,aps,pads,",
+      "sector": "pef,pwef,p",
+      "salida": "pmefpwmpfp",
+      "llegada": "lefwemwpem",
+      "maquinista": "mefpwmpefm",
+      "detalles": "pmfepmwepf",
+      "id": "9297a05b-fcde-4757-825b-49be757276ea"
+    },
+    {
+      "nombre": "koekoewko",
+      "sector": "okoekoko",
+      "salida": "okoekro3k",
+      "llegada": "okorko3ko|o|",
+      "maquinista": "ofeokewoko",
+      "detalles": "oefokewf",
+      "id": "a07cbed5-8c31-4355-b745-e33cf9720e49"
+    },
+    {
+      "nombre": "as,ds,dsp",
+      "sector": ",wl,el,",
+      "salida": "l,elw,l",
+      "llegada": "lmflmwlem",
+      "maquinista": "pmfpemwp",
+      "detalles": "mpfmepwem",
+      "id": "33d918e9-354a-476f-bc9b-0da639089b3e"
+    },
+    {
+      "nombre": "msaldmal",
+      "sector": "mfwemfeo",
+      "salida": "mfemowom",
+      "llegada": "omfoemwo",
+      "maquinista": "omfeomewo",
+      "detalles": "omfeomewoef",
+      "id": "78015765-cdbe-4a1b-a1fb-2fef80609387"
     }
   ]
 }

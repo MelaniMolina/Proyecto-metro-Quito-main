@@ -70,7 +70,7 @@ export const Formulario = ({setEstado,idMetro}) => {
         try {
 
             if(form.id){
-                const url = `http://localhost:3000/metro/${form.id}`
+                const url = `https://64cefce4ffcda80aff5197b9.mockapi.io/api/metro-quito/v1/metro${form.id}`
                 await fetch(url,{
                     method:'PUT',
                     body:JSON.stringify(form),
@@ -85,7 +85,7 @@ export const Formulario = ({setEstado,idMetro}) => {
                 }, 1000)
             }
             else{
-                const url ="http://localhost:3000/metro"
+                const url ="https://64cefce4ffcda80aff5197b9.mockapi.io/api/metro-quito/v1/metro"
                             form.id = uuidv4()
                 await fetch(url,{
                     method:'POST',
